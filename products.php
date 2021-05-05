@@ -144,3 +144,8 @@ $products = array(
         "Jewelry"
     )
 );
+
+$products_array = [];
+foreach ($products as $object) {
+    $products_array[] = $object->to_array();
+}
