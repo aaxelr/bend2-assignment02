@@ -50,7 +50,7 @@ class App
         }
 
         // JSON
-        $json = json_encode($selected_products);
+        $json = json_encode($selected_products, JSON_UNESCAPED_UNICODE);
         echo $json;
     }
 }

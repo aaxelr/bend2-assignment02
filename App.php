@@ -11,7 +11,7 @@ class App
     {
         require_once "products.php";
 
-        $json = json_encode($products_array);
+        $json = json_encode($products_array, JSON_UNESCAPED_UNICODE);
         echo $json;
     }
 }
