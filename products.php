@@ -22,7 +22,7 @@ $products = array(
         "Cool Cat",
         "Feed it anywhere, everyday, no matter what the occasion!",
         999.90,
-        "Pet"
+        "Pets"
     ),
     new Product(
         4,
@@ -50,7 +50,7 @@ $products = array(
         "Bean Cat",
         "It looks like a kidney bean but is actually a cat :(",
         599.90,
-        "Pet"
+        "Pets"
     ),
     new Product(
         8,
@@ -78,7 +78,7 @@ $products = array(
         "A 'Hot' Dog",
         "Not food! DO NOT EAT!",
         399.90,
-        "Pet"
+        "Pets"
     ),
     new Product(
         12,
@@ -106,7 +106,7 @@ $products = array(
         "Pet Squid",
         "Very cute and loyal pet friend.",
         129.90,
-        "Pet"
+        "Pets"
     ),
     new Product(
         16,
@@ -127,7 +127,7 @@ $products = array(
         "Pet Spider",
         "Friendly spider, doesn't bite",
         129.90,
-        "Pet"
+        "Pets"
     ),
     new Product(
         19,
