@@ -68,7 +68,7 @@ $products = array(
     ),
     new Product(
         10,
-        "Hot dog",
+        "Hot dogs",
         "Eat them only if you're really hungry...",
         7.90,
         "Food"
